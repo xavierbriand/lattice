@@ -6,4 +6,8 @@ How to install (on mac)
 
 Install Docker desktop.
 
-Using Homebrew, install k3d and kubectl.
+Using Homebrew, install:
+
+- k3d
+- kubectl
+- go-task
